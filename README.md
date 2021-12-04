@@ -1,6 +1,8 @@
 Eclipse Mosquitto
 =================
 
+## Running CBMC to formally verify the code base as part of course project at Columbia
+
 Mosquitto is an open source implementation of a server for version 5.0, 3.1.1,
 and 3.1 of the MQTT protocol. It also includes a C and C++ client library, and
 the `mosquitto_pub` and `mosquitto_sub` utilities for publishing and
